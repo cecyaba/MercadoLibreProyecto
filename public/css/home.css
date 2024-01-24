@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:#EAC926;
+    font-size: 12px;
+
+  }
+  
+header {
+    background-color: #EAC926; 
+    padding: 10px;
+    color: #ebebeb; 
+}
+
+.header-section{
+  color:black;
+  font-size: 12px;
+}
+
+.search-container i {
+  font-size: 18px; 
+  margin-bottom: 10px;
+}
+ 
+.navbar {
+  width: auto;
+  padding: 10px;
+}
+
+.login-bar {
+  padding: 10px;
+  text-align: center;
+  font-size: 12px;
+}
+  
+.search-bar {
+  padding: 10px;
+}
+   
+h1, h2 {
+  font-size: 24px;
+}
+ 
+.precio {
+  font-size: 18px;
+}
+  
+.descuento {
+  font-size: 16px;
+}
+  
+.descripcion {
+  font-size: 16px;
+}
+
+#img.logo{
+  width: 80px;
+  height: 50px;
+  border-radius: 50%;
+  border:  2px solid #03264C;
+  color:#03264C;
+  display: block;
+  margin: auto;
+}
+
+.burger-menu i{
+  background-color: #1259c3;
+  border-radius: 5%;
+  padding-inline-start: 50px;
+  size: 100px;
+  align-content: center;
+
+}
+
+.cointener-footer{
+  background-color: white;
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.footer i{
+  font-size: 2em ;
+  margin-bottom: 10px;
+}
+
+.cointener-footer h5{
+  size: 12px;
+  margin-top: 20px;
+}
